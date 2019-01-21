@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color:#efeee7;
+    font-style:Georgia,"Times New Roman",Times,serif;
+    color:#33333;
+    margin: 0%;
+    padding:0%;
+    width:1024px;
+}
+.mainBio{
+    width: 70%;
+    display: flex;
+}
+
+#header{
+    background-color:black;
+    color:white;
+    text-align:center;
+    font-size: 50px;
+}
+.wrapper{
+    color:black;
+    font-size:23px;
+    margin: 0;
+    padding:0;
+    float:left;
+    width:70%;
+    font-size: 22.1px;
+}
+
+#profileimg{
+    float: left;
+    width: 200px;
+    height:auto;
+    margin:left;
+}
+#contactInfo{
+    font-size: 20px;
+    margin:0px;
+    float: left;
+    width: 30%;
+}
+
+.clear{
+    clear: both;
+}
+
